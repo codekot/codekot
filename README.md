@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Gennadii Shamshurin @codekot
-- 👀 I’m interested in data analysis, geospatial analysis and web gis.
-- 🌱 I’m currently learning machine learning on RS school course.
+-  Hi, I’m Gennadii Shamshurin @codekot
+-  I’m interested in data analysis, geospatial analysis and web gis.
+-  I’m currently learning machine learning on RS school course.
 <!--- 💞️ I’m looking to collaborate on ... --->
 - 📫 How to reach me: email gennadii.shamshurin@gmail.com
 
