@@ -1,5 +1,5 @@
 -  Hi, I’m Gennadii Shamshurin @codekot
--  I’m interested in data analysis, geospatial analysis and web gis.
+-  I’m interested in machine learning, data analysis, geospatial analysis and web gis.
 - How to reach me: email gennadii.shamshurin@gmail.com
 
 <!---
